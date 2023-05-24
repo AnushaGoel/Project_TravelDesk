@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Employee Dashboard</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Employee Dashboard</h1>
+    <div class="add-request-form">
+      <h2>Create New Travel Request</h2>
+      <form>
+        <label for="destination">Destination:</label>
+        <input type="text" id="destination" name="destination" required>
+        <label for="purpose">Purpose:</label>
+        <input type="text" id="purpose" name="purpose" required>
+        <label for="date">Date:</label>
+        <input type="date" id="date" name="date" required>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <h2>Previous Requests</h2>
+    <table>
+      <tr>
+        <th>Destination</th>
+        <th>Purpose</th>
+        <th>Date</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td>City A</td>
+        <td>Client Meeting</td>
+        <td>2023-05-10</td>
+        <td>Approved</td>
+      </tr>
+      <tr>
+        <td>City B</td>
+        <td>Conference</td>
+        <td>2023-04-25</td>
+        <td>Declined</td>
+      </tr>
+      <tr>
+        <td>City C</td>
+        <td>Training</td>
+        <td>2023-03-15</td>
+        <td>Pending</td>
+      </tr>
+      <!-- Add more rows for other requests -->
+    </table>
+  </div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Manager Dashboard</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Manager Dashboard</h1>
+    <button class="request-travel-btn">Request Travel</button>
+
+    <h2>Requests from Employees</h2>
+    <table>
+      <tr>
+        <th>Employee</th>
+        <th>Destination</th>
+        <th>Purpose</th>
+        <th>Date</th>
+        <th>Status</th>
+        <th>Actions</th>
+      </tr>
+      <tr>
+        <td>John Doe</td>
+        <td>City A</td>
+        <td>Client Meeting</td>
+        <td>2023-05-10</td>
+        <td>Pending</td>
+        <td>
+          <button class="approve-btn">Approve</button>
+          <button class="reject-btn">Reject</button>
+          <button class="add-comment-btn">Add Comment</button>
+        </td>
+      </tr>
+      <tr>
+        <td>Jane Smith</td>
+        <td>City B</td>
+        <td>Conference</td>
+        <td>2023-04-25</td>
+        <td>Approved</td>
+        <td>
+          <button class="approve-btn">Approve</button>
+          <button class="reject-btn">Reject</button>
+          <button class="add-comment-btn">Add Comment</button>
+        </td>
+      </tr>
+      <!-- Add more rows for other requests -->
+    </table>
+
+    <h2>Previous Requests</h2>
+    <table>
+      <tr>
+        <th>Employee</th>
+        <th>Destination</th>
+        <th>Purpose</th>
+        <th>Date</th>
+        <th>Status</th>
+        <th>Actions</th>
+      </tr>
+      <tr>
+        <td>John Doe</td>
+        <td>City C</td>
+        <td>Training</td>
+        <td>2023-03-15</td>
+        <td>Approved</td>
+        <td>
+          <button class="view-comments-btn">View Comments</button>
+        </td>
+      </tr>
+      <!-- Add more rows for other requests -->
+    </table>
+  </div>
+</body>
+</html>

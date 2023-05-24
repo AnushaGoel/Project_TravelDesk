@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin Dashboard</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Admin Dashboard</h1>
+    <div class="add-user-form">
+      <h2>Add User</h2>
+      <form>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">Add</button>
+      </form>
+    </div>
+
+    <h2>User List</h2>
+    <table>
+      <tr>
+        <th>Email</th>
+        <th>Password</th>
+        <th>Role</th>
+        <th>Action</th>
+      </tr>
+      <tr>
+        <td>example1@example.com</td>
+        <td>********</td>
+        <td>Employee</td>
+        <td>
+          <button>Edit</button>
+          <button>Remove</button>
+        </td>
+      </tr>
+      <tr>
+        <td>example2@example.com</td>
+        <td>********</td>
+        <td>Manager</td>
+        <td>
+          <button>Edit</button>
+          <button>Remove</button>
+        </td>
+      </tr>
+      <tr>
+        <td>example3@example.com</td>
+        <td>********</td>
+        <td>HR Admin</td>
+        <td>
+          <button>Edit</button>
+          <button>Remove</button>
+        </td>
+      </tr>
+      <!-- Add more rows for other users -->
+    </table>
+  </div>
+</body>
+</html>
