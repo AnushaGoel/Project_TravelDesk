@@ -1,0 +1,12 @@
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\bin\Debug\net6.0\BusninessObject.deps.json
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\bin\Debug\net6.0\BusninessObject.dll
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\bin\Debug\net6.0\BusninessObject.pdb
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\BusninessObject.csproj.AssemblyReference.cache
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\BusninessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\BusninessObject.AssemblyInfoInputs.cache
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\BusninessObject.AssemblyInfo.cs
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\BusninessObject.csproj.CoreCompileInputs.cache
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\BusninessObject.dll
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\refint\BusninessObject.dll
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\BusninessObject.pdb
+C:\Users\Prashant.Kumar\source\repos\Project\BusninessObjective\obj\Debug\net6.0\ref\BusninessObject.dll
